@@ -1,0 +1,11 @@
+Stanze: N11, Biblioteca, N10, Bar
+StanzeMagiche: N2
+StanzeBuie: Campus lanterna
+StanzeBloccate: N12 nord chiave
+Inizio: Biblioteca
+Vincente: Bar
+Attrezzi: lanterna 3 N10, osso 1 N11, chiave 1 Campus
+Uscite: N11 nord Biblioteca, N11 est N11, N11 sud N10, N11 ovest Campus, N11 est N12, N11 ovest N11, N11 sud Campus, N10 nord N11, N10 est Campus, N10 ovest N12, N12 est N10, N12 ovest N11, N12 sud Campus, N12 nord Bar, Campus est N11, Campus ovest N11, Campus nord N12, Biblioteca sud N11
+Personaggi: Mago Merlino N12 "Sei un gran burlone!" chiave 1 null, Cane Cerbero N11 "" pallina 1 osso, Strega Morgana N11 "Sono una strega molto permalosa." null 0 null
+
+
